@@ -47,4 +47,3 @@
 ../vendor/bin/drush config-set system.theme default bootstrap -y
 ../vendor/bin/drush cache-rebuild
 
-laz
